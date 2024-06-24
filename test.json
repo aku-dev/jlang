@@ -1,0 +1,13 @@
+{"values":[
+	{"key":"cat_1", "value":"test."},
+	
+	{"key":"dialog_info", "value":"Information"},
+	{"key":"dialog_player", "value":"Player"},
+	{"key":"dialog_friend", "value":"Friend"},
+	
+	{"key":"dialog_1", "value":"Hi! How are you?"},
+	{"key":"notice_1", "value":"Time to alert..."},
+	{"key":"notice_2", "value":"Warning!"},
+	
+	{"key":"endgame", "value":"The end."}
+]}
